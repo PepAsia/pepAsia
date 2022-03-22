@@ -1,0 +1,29 @@
+body
+{
+   background-color:white;
+   text-align: center;
+}
+
+
+#dip
+{
+    width: 300px;
+    height: 250px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#o
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+img
+{
+    height: 150px;
+    width: 300px;
+}
